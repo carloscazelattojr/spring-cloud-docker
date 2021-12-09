@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+D:\Develop\Projects\LeandroCosta-Udemy\spring-cloud-docker\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2187004688.index
